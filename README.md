@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/xaakib/movie_with_api)  
   
 
-- 🌱 I’m currently learning Flutter and Ai,  
+- 🌱 I’m currently learning Flutter ,Dart and Ai,  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

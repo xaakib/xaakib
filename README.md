@@ -1,4 +1,4 @@
-### <div align="center">I'm xaakib, i am Mobile application developer 🚀</div>  
+### <div align="center">I'm xaakib, I am Mobile application developer 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/xaakib/movie_with_api)  

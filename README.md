@@ -1,16 +1,24 @@
-### <div align="center">Hi, I am Salvador Valverde 🚀</div>  
+### <div align="center">Hi, I am Xaakib 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/xaakib/movie_with_api)  
+- 🔭 I’m currently working on be better every day :) 
   
 
-- 🌱 I’m currently learning Flutter ,Dart and Python ,AI-ML,  
+- 🌱 I’m currently learning Flutter , React and Python-AI  
+
+
+
+- 👯 I’m looking to collaborate on good projects  
+
+- 👯 🤔 I’m looking for help with dynammic programming >.<
+
+
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces😁  
+- ⚡ Fun fact: Programming is easy ❤️ 
   
 
 <br/>  

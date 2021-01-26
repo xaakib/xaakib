@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on be better every day :) 
   
 
-- 🌱 I’m currently learning Flutter , React and Python-AI  
+- 🌱 I’m currently learning Flutter ,Dart, Kotlin, Python_AI-ML 
 
 
 

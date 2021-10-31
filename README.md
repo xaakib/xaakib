@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Repositories](https://github.com/xaakib?tab=repositories)
 
-- 🌱 I’m currently learning **Flutter ,Python, Machine Learning**
+- 🌱 I’m currently learning **Flutter ,Dart ,Python, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://xaakib.blogspot.com/](https://xaakib.blogspot.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/xaakib?tab=repositories](https://github.com/xaakib?tab=repositories)
 
 - 📝 I regularly write articles on [https://xaakib.blogspot.com/](https://xaakib.blogspot.com/)
 

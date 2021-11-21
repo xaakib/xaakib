@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Repositories](https://github.com/xaakib?tab=repositories)
 
-- 🌱 I’m currently learning **Flutter ,Dart ,Python, Machine Learning**
+- 🌱 I’m currently learning **Flutter ,Dart ,Java,Native App , IOS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xaakib?tab=repositories](https://github.com/xaakib?tab=repositories)
 
 - 📝 I regularly write articles on [https://xaakib.blogspot.com/](https://xaakib.blogspot.com/)
 
-- 💬 Ask me about **Flutter, Dart, Python, AI-ML**
+- 💬 Ask me about **Flutter, Dart, Java, Ios**
 
 - 📫 How to reach me **xaakibx@gmail.com**
 

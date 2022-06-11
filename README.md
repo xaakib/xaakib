@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **xaakibx@gmail.com**
 
-- 📄 Know about my experiences [xaakib.web.app]
+- 📄 Know about my experiences xaakib.web.app
 
 - ⚡ Fun fact **Enjoy😊**
 
